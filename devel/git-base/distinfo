@@ -1,0 +1,18 @@
+$NetBSD: distinfo,v 1.54 2016/09/07 08:56:33 adam Exp $
+
+SHA1 (git-2.10.0.tar.xz) = a5c580e30b686e6b9424e886bf5d93ade635d837
+RMD160 (git-2.10.0.tar.xz) = d80fc2c17db82625e3c57362555de5d63cecb257
+SHA512 (git-2.10.0.tar.xz) = 69d031f55141c2cb2cfce69ac808d1765c1502e10867e8f6e8fb2d9ac5e2fa5773f3ba4a8f4b59e313c715e757c97b3cd3f1b13da45c7bc3958bf53026f0718e
+Size (git-2.10.0.tar.xz) = 4096264 bytes
+SHA1 (patch-aa) = a58f3c2f45c1fbafd751d10b9ef34e6c9afc2c6f
+SHA1 (patch-ac) = 376cdd1c58b143c820ff6395987a8a77cf9b52ba
+SHA1 (patch-ae) = 9bc2e6c7f0a8fbc385b6ffda638d3245a62dc5ca
+SHA1 (patch-af) = 06460f220b4703a1ff98809006ec1aed5017bb23
+SHA1 (patch-ag) = 4f0b9a5745203ea7ef369c8272b3ea7c644762f0
+SHA1 (patch-ah) = f22a2160631fb624e9e20616c68ad1a4aa2bebc7
+SHA1 (patch-ai) = 56b63d4790a11f5eb128186ad5efdd1bcf102f2e
+SHA1 (patch-config.mak.uname) = 5316873147acf5b6ef29e426946280bb6441c886
+SHA1 (patch-wrapper.c) = 1fb629ec301d0431cb5bebd716b1c3a7ae45577f
+SHA1 (patch-zz-minix-a) = 7bf6ca4176f53bfd00ee663b66851a5331073c5d
+SHA1 (patch-zz-minix-b) = 8ea47209f833fb59cc58fe332bd6e4315551e5af
+SHA1 (patch-zz-minix-c) = 62167e44a1d4762fa30f6374bd5a403e33e1d488

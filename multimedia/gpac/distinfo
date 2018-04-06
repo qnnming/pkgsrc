@@ -1,0 +1,8 @@
+$NetBSD: distinfo,v 1.11 2015/11/05 22:02:08 tnn Exp $
+
+SHA1 (gpac-0.5.2.tar.gz) = 467128110636dc793be89f33765b42543dd97f7c
+RMD160 (gpac-0.5.2.tar.gz) = da37d2897a7358242f0f4e46de8a6bcf697554e7
+SHA512 (gpac-0.5.2.tar.gz) = b6828953333c6615a2a57845190c246681f4d83a73e1f96f200fed6bfe97b7273ab5d30618b7782cd442e68e8c9e37971792dfd6366dcf21b3b3bdbb1a8bc979
+Size (gpac-0.5.2.tar.gz) = 9044537 bytes
+SHA1 (patch-modules_oss__audio_Makefile) = 11e0f16a7124db96e630c1c9ec203e447510a8d1
+SHA1 (patch-modules_pulseaudio_Makefile) = f98e3994f5fb99c3c2e86564237c3cd8c12e732b

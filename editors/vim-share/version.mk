@@ -1,0 +1,5 @@
+# $NetBSD: version.mk,v 1.97 2016/07/03 13:20:59 morr Exp $
+
+VIM_VERSION=		7.4
+VIM_PATCHLEVEL=		1987
+VIM_SUBDIR=		vim74
